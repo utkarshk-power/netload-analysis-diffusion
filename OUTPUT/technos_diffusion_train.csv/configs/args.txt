@@ -1,0 +1,480 @@
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '25000', '--mode', 'predict', '--pred_len', '48']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 25000
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 48
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '10', '--mode', 'predict', '--pred_len', '48']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 48
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '10', '--mode', 'predict', '--pred_len', '48']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 48
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--train']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: infill
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  sample: 0
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '10', '--mode', 'predict', '--pred_len', '48']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 48
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '10', '--mode', 'predict', '--pred_len', '50']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 10
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 50
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '50']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 50
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '500']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 500
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 12345
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '500', '--seed', '98242']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 500
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 98242
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '500', '--seed', '98240']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 500
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 98240
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '24', '--seed', '982497']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 24
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 982497
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1
+==> cudnn version: None
+==> Cmd:
+['main.py', '--name', 'technos_diffusion_train.csv', '--config_file', 'Config/technos_diffusion.yaml', '--gpu', '-1', '--sample', '1', '--milestone', '9', '--mode', 'predict', '--pred_len', '24', '--seed', '982497']
+==> args:
+  config_file: Config/technos_diffusion.yaml
+  cudnn_deterministic: False
+  gpu: -1
+  milestone: 9
+  missing_ratio: 0.0
+  mode: predict
+  name: technos_diffusion_train.csv
+  opts: []
+  output: OUTPUT
+  pred_len: 24
+  sample: 1
+  save_dir: OUTPUT/technos_diffusion_train.csv
+  seed: 982497
+  tensorboard: False
+  train: False
